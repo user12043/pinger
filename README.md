@@ -4,7 +4,6 @@ Automated pinging application.
 Reads input from a file named `input.txt` in working directory. File format is:
 
 > <ip_address>-<ip_address>
-> <ip_address>-<ip_address>
 
 Example:
 
