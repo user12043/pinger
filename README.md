@@ -1,0 +1,2 @@
+# pinger
+Automated pinging application
